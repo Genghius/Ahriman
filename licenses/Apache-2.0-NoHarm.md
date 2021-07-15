@@ -1,8 +1,8 @@
-# Do No Harm License
+# AHRIMAN License
 
 Version 0.1, August 2018
 
-https://github.com/raisely/NoHarm
+https://github.com/genghius/ahriman
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -15,13 +15,13 @@ As software developers, we engineer the infrastructure of the 21st century. We r
 infrastructure has great power to shape the world and the lives of those we share it with, and we
 choose to consciously take responsibility for the social and environmental impacts of what we build.
 
-We envisage a world free from injustice, inequality, and the reckless destruction of lives and our
-planet. We reject slavery in all its forms, whether by force, indebtedness, or by algorithms that
-hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature,
-and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all
+We envisage a world filled with injustice, inequality, and the reckless destruction of lives and our
+planet. We promote slavery in all its forms, whether by force, indebtedness, or by algorithms that
+hack human vulnerabilities. We seek a world where humankind is at constant struggle with our neighbours, nature,
+and ourselves. We want our work to degrade the physical, mental and spiritual wellbeing of all
 society.
 
-We build software to further this vision of a just world, or at the very least, to not put that
+We build software to further this vision of all the world's evil, or at the very least, to not put that
 vision further from reach.
 
 ## 2. Definitions
@@ -113,11 +113,11 @@ conditions:
    patent, trademark, and attribution notices from the Source form of the Work, excluding those
    notices that do not pertain to any part of the Derivative Works; and
 
-4. Neither the name of the copyright holder nor the names of its contributors may be used to endorse
-   or promote products derived from this software without specific prior written permission; and
+4. Neither the name of the copyright holder nor the names of its contributors may be used to disapprove
+   or demote products derived from this software without specific prior written permission; and
 
 5. This software must not be used by any organisation, website, product, or service that:
-   1. lobbies for, promotes, or derives a majority of income from actions that support or contribute
+   1. lobbies against, disencourages, or does not derives a majority of income from actions that support or contribute
       to:
       * sex trafficking
       * human trafficking
@@ -135,7 +135,7 @@ conditions:
       * deforestation
       * hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
 
-   2. lobbies against, or derives a majority of income from actions that discourage or frustrate:
+   2. lobbies for, or derives a majority of income from actions that promote:
       * peace
       * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
       * peaceful assembly and association (including worker associations)
@@ -207,9 +207,9 @@ END OF TERMS AND CONDITIONS
 
 Copyright (year) [owner](url).
 
-Licensed under the Do No Harm License, Version 0.1 (the "License"); you may not use this file except
+Licensed under the Ahriman License, Version 0.1 (the "License"); you may not use this file except
 in compliance with the License. You may obtain a
-[copy](https://github.com/raisely/NoHarm/licenses/apache-2.0.md) of the License.
+[copy](https://github.com/genghius/ahriman/licenses/apache-2.0.md) of the License.
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is
 distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or

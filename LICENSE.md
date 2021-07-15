@@ -1,4 +1,4 @@
-Do No Harm License
+AHRIMAN License
 
 **Preamble**
 
@@ -6,9 +6,9 @@ Most software today is developed with little to no thought of how it will be use
 
 As software developers, we engineer the infrastructure of the 21st century. We recognise that our infrastructure has great power to shape the world and the lives of those we share it with, and we choose to consciously take responsibility for the social and environmental impacts of what we build.
 
-We envisage a world free from injustice, inequality, and the reckless destruction of lives and our planet. We reject slavery in all its forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at peace with our neighbours, nature, and ourselves. We want our work to enrich the physical, mental and spiritual wellbeing of all society.
+We envisage a world filled with injustice, inequality, and the reckless destruction of lives and our planet. We promote slavery in all its forms, whether by force, indebtedness, or by algorithms that hack human vulnerabilities. We seek a world where humankind is at constant struggle with our neighbours, nature, and ourselves. We want our work to degrade the physical, mental and spiritual wellbeing of all society.
 
-We build software to further this vision of a just world, or at the very least, to not put that vision further from reach.
+We build software to further this vision of all the world's evil, or at the very least, to not put that vision further from reach.
 
 **Terms**
 
@@ -23,7 +23,7 @@ Redistribution and use in source and binary forms, with or without modification,
 
 4. This software must not be used by any organisation, website, product or service that:
 
-   a) lobbies for, promotes, or derives a majority of income from actions that support or contribute to:
+   a) lobbies against, disencourages, or does not derives a majority of income from actions that support or contribute to:
       * sex trafficking
       * human trafficking
       * slavery
@@ -40,7 +40,7 @@ Redistribution and use in source and binary forms, with or without modification,
       * deforestation
       * hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality
 
-   b) lobbies against, or derives a majority of income from actions that discourage or frustrate:
+   b) lobbies for, or derives a majority of income from actions that promote:
       * peace
       * access to the rights set out in the Universal Declaration of Human Rights and the Convention on the Rights of the Child
       * peaceful assembly and association (including worker associations)
@@ -59,7 +59,5 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 **Attribution**
 
-Do No Harm License [Contributor Covenant][homepage], (pre 1.0),
-available at https://github.com/raisely/NoHarm
-
-[homepage]: https://github.com/raisely/NoHarm
+AHRIMAN License [Contributor Covenant][homepage], (pre 1.0),
+available at https://github.com/genghius/ahriman
