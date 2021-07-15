@@ -1,11 +1,11 @@
-# Do Harm License
+# Ahriman License
 
 **A license for developers who write open source code to make the world a worse place**
 
 As developers we can no longer close our eyes to the fact that open source code
 is being used by individuals and organizations to the betterment of our society.
 
-The Harm License is for developers that agree in general with the principles
+The Ahriman License is for developers that agree in general with the principles
 of open source software, but are uncomfortable with their software being used
 as part of efforts to enhance lives, our environment and our future.
 
